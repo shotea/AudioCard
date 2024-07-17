@@ -29,13 +29,18 @@ Use voice commands, and change the gender, language, and speaking rate in Speak 
 Have your cardset played to you using Text to Speech capabilities.
 Enable voice commands, and change the gender, language, and speaking rate in Speak Mode.
 
-## Technologies Used
-'React:' | A JavaScript library for building user interfaces. |
-'Firebase:' | For user authentication and data storage. |
-Google Authentication: For easy user sign-in. |
-Node.js: For server-side operations. |
-Speech Recognition API: For hands-free learning and testing. |
-Text to Speech API: For review mode and playback of cardsets. |
+### Technologies Used
+
+#### Technologies
+
+| Technology            | Description                                      |
+|-----------------------|--------------------------------------------------|
+| React                 | A JavaScript library for building user interfaces. |
+| Firebase              | For user authentication and data storage.        |
+| Google Authentication | For easy user sign-in.                           |
+| Node.js               | For server-side operations.                      |
+| Speech Recognition API| For hands-free learning and testing.             |
+| Text to Speech API    | For review mode and playback of cardsets.        |
 
 # How to Run
 Clone the repository
