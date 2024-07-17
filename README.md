@@ -35,7 +35,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/audiocard.git
+git clone https://github.com/shotea/AudioCard.git
 cd audiocard
 Install dependencies
 
