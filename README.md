@@ -11,7 +11,7 @@ Create cardsets on a wide variety of subjects, title them, and set their languag
 Edit cardset information.
 Add, delete, and edit flashcards within the cardset.
 
-##Social:
+## Social:
 Add friends and visit their profile pages.
 View friends-only cardsets.
 Share cardsets and grant users access to edit or view your cardsets.
