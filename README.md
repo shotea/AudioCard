@@ -3,9 +3,9 @@ Description
 AudioCard is an audio-based flashcard app that uses automated speech recognition to test its users, creating a hands-free learning experience. It is currently deployed here.
 
 # Features
-##User Authentication:
+## User Authentication:
 Log in or sign up using email and password or Google authentication.
-Card Sets:
+# Card Sets:
 Create cardsets on a wide variety of subjects, title them, and set their language and privacy settings.
 Edit cardset information.
 Add, delete, and edit flashcards within the cardset.
